@@ -87,10 +87,10 @@ $(document).ready(function(){
 
  // save pdf script
 
-  const link = document.querySelector("#button");
+ // const link = document.querySelector("#button");
 
-  link.href = './cv/CV.pdf';
+ // link.href = './cv/CV.pdf';
 
-  link.dispatchEvent(new MouseEvent('click'));
+ // link.dispatchEvent(new MouseEvent('click')); 
 
 //  end JS
