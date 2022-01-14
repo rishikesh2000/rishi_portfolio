@@ -91,8 +91,6 @@ $(document).ready(function(){
 
   link.href = './cv/CV.pdf';
 
-  link.open = 'Rishi CV.pdf';
-
   link.dispatchEvent(new MouseEvent('click'));
 
 //  end JS
